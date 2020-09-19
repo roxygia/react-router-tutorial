@@ -1,7 +1,7 @@
-import "React" from "react"
+import React from "react"
 
-function ContactPage(){
+function Contact(){
     return<h1>This is the contact page</h1>
 }
 
-export default ContactPage;
+export default Contact;

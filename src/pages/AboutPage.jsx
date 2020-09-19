@@ -1,7 +1,7 @@
-import "React" from "react"
+import React from "react"
 
-function AboutPage(){
+function About(){
     return<h1>This is the about page</h1>
 }
 
-export default AboutPage;
+export default About;
